@@ -1,7 +1,5 @@
 # Customer-Service-Chatbot
 
-# 🤖 Customer Service Chatbot
-
 ## 📖 Description
 
 The **Customer Service Chatbot** is an AI-powered application designed to automate customer support by providing instant responses to user queries. It uses Natural Language Processing (NLP) and Machine Learning to understand user requests, answer frequently asked questions, and assist customers with common issues. The chatbot improves customer experience by offering 24/7 support while reducing response time and manual workload.
